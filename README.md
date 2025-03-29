@@ -1,1 +1,1 @@
-Aqui estão todos meus arquivos de estudos de Python durante o curso
+Aqui estão todos meus arquivos de estudos Python durante o curso
